@@ -6,6 +6,8 @@ import Nav from './Components/Nav';
 import {$,jQuery} from 'jquery';
 import Form from './Components/form';
 import Naver from './Naver';
+import Contact from './Contact';
+import About from './About';
 import Footer from './Footer';
 import Home from './Home/Home';
 
@@ -14,9 +16,12 @@ function App() {
 return(
   <>
     <Naver />
-    <Home />
+    {/* <Home /> */}
     {/* <Form /> */}
+    {/* <Contact/> */}
+    <About/>
     <Footer />
+
     
 
   </>

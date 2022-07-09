@@ -37,51 +37,7 @@ function Contact(){
   <link rel="stylesheet" href="css/animate.min.css" />
   <link rel="stylesheet" href="css/owl.carousel.css" />
   <link rel="stylesheet" href="css/main.css" />
-  <header id="header">
-    <div className="header-top">
-      <div className="container">
-        <div className="row align-items-center">
-          <div className="col-lg-6 col-sm-6 col-6 header-top-left">
-            <ul>
-              <li>
-                <a href="#">Visit Us</a>
-              </li>
-              <li>
-                <a href="#">Buy Tickets</a>
-              </li>
-            </ul>
-          </div>
-          <div className="col-lg-6 col-sm-6 col-6 header-top-right">
-            <div className="header-social">
-              <a href="#">
-                <i className="fa fa-facebook" />
-              </a>
-              <a href="#">
-                <i className="fa fa-twitter" />
-              </a>
-              <a href="#">
-                <i className="fa fa-dribbble" />
-              </a>
-              <a href="#">
-                <i className="fa fa-behance" />
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div className="container main-menu">
-      <div className="row align-items-center justify-content-between d-flex">
-        <div id="logo">
-          <a href="index.html">
-            <img src="img/logo.png" alt="" title="" />
-          </a>
-        </div>
-        
-      </div>
-    </div>
-  </header>
-  {/* #header */}
+  
   {/* start banner Area */}
   <section className="relative about-banner">
     <div className="overlay overlay-bg" />
@@ -114,8 +70,8 @@ function Contact(){
               <span className="lnr lnr-home" />
             </div>
             <div className="contact-details">
-              <h5>Binghamton, New York</h5>
-              <p>4343 Hinkle Deegan Lake Road</p>
+              <h5>Aqaba, Jordan</h5>
+              <p>4343 Aqaba</p>
             </div>
           </div>
           <div className="single-contact-address d-flex flex-row">
@@ -123,7 +79,7 @@ function Contact(){
               <span className="lnr lnr-phone-handset" />
             </div>
             <div className="contact-details">
-              <h5>00 (958) 9865 562</h5>
+              <h5>0779837654</h5>
               <p>Mon to Fri 9am to 6 pm</p>
             </div>
           </div>
@@ -132,8 +88,8 @@ function Contact(){
               <span className="lnr lnr-envelope" />
             </div>
             <div className="contact-details">
-              <h5>support@colorlib.com</h5>
-              <p>Send us your query anytime!</p>
+              <h5>by the sea@gmail.com</h5>
+              <p>Send Us Your Message Anytime!</p>
             </div>
           </div>
         </div>
